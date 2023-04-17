@@ -1,0 +1,12 @@
+.alert {
+  padding: 20px;
+  background-color: #ffa92b;
+  color: white;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 22px;
+}
